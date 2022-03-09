@@ -13,3 +13,6 @@ e.upd(sf::seconds(50));
 e.upd(sf::seconds(100));
 }
 
+//OUTPUT:
+//1: 0.5
+//2: 0.5
